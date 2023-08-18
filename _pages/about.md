@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Research Assistant at <a href='https://www.utexas.edu/'>UT Austin</a>.
+subtitle: Joining as a PostDoc at Apple.
 
 profile:
   align: right
@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a final-year Ph.D. student in the Department of Computer Science at UT Austin, advised by [Dr. Kristen Grauman](http://www.cs.utexas.edu/~grauman/). My research interests lie at the intersection of computer vision and reinforcement learning. My primary research has focused on learning intelligent behaviors for embodied robotic agents and AR assistants. More broadly, I am also interested in leveraging self-supervision for learning useful representations, both in the context of image representations and higher-level representations of 3D spaces, and learning useful priors from human behavior for enhancing embodied agents. **I am looking for full-time job opportunities.**
+I completed my Ph.D. at the Department of Computer Science at UT Austin, advised by [Dr. Kristen Grauman](http://www.cs.utexas.edu/~grauman/). My research interests lie at the intersection of computer vision and reinforcement learning. My primary research has focused on learning intelligent behaviors for embodied robotic agents and AR assistants. More broadly, I am also interested in leveraging self-supervision for learning useful representations, both in the context of image representations and higher-level representations of 3D spaces, and learning useful priors from human behavior for enhancing embodied agents. I will be joining Apple for a postdoc with [Dr. Vladlen Koltun](http://vladlen.info/) in October 2023.
 
 Before joining UT Austin in 2017, I completed my integrated B.Tech and M.Tech in Electrical Engineering at IIT Madras. I was jointly advised by [Dr. Anurag Mittal](http://www.cse.iitm.ac.in/~amittal/) and [Dr. Gaurav Sharma](http://www.grvsharma.com/research.html) for my M.Tech thesis.
